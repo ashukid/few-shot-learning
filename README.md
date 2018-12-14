@@ -1,4 +1,4 @@
-# few-shot-learning
+# Few Shot Learning
 Curated List of Few shot and One shot Learning Papers and resources
 
 Classical :
