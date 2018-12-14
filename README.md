@@ -17,3 +17,4 @@ Learning The First? - https://papers.nips.cc/paper/1034-is-learning-the-n-th-thi
 
 1. Low-shot Visual Recognition by Shrinking and Hallucinating Features - https://arxiv.org/abs/1606.02819
 2. Low-Shot Learning from Imaginary Data - https://arxiv.org/abs/1801.05401
+3. Dynamic Few-Shot Visual Learning without Forgetting - https://arxiv.org/abs/1804.09458
